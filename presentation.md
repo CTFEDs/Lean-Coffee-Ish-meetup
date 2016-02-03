@@ -18,9 +18,9 @@ Because group votes
 ### 3. Vote and Talk
 ### (4. To Do)
 
-^ Mini-Kanban
+^ Mini-Kanban board
 Lots of stickies, quiet.
-I want to talk about X because.
+Use board, "I want to talk about X because."
 Action! Can help? Small or big.
 
 
@@ -54,11 +54,14 @@ Wide, divergent
 ### (5 mins)
 ### *Two dots. Use them wisely!*
 
+^ Will decided what to talk about
+and what order
+
 ---
 
 ## Talk
 ### (about 20 mins)
-### *Makes notes as you discuss*
+### *Use your board, make notes*
 
 ---
 
